@@ -1,0 +1,1 @@
+Automated Network Intrusion Detection system for IoT security using the UNSW-NB15 dataset. Applied feature selection (Filter/Wrapper/Embedded) and SMOTE for class balancing, then trained Random Forest, Decision Tree, AdaBoost, KNN, and a Stacking Classifier ensemble to detect cyberattacks accurately.
